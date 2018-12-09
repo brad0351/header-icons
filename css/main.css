@@ -31,6 +31,7 @@ a {
   border-style: solid;
   border-color:  #a63f38;
   margin: 0;
+  align-items: center;
 }
 
 ul {
